@@ -1,6 +1,8 @@
 @font-face {
-    font-family: Cartograph;
-    src: url(../Fonts/CartographCF-RegularItalic.otf);
+    font-family: 'cartograph';
+    src: url('cartographcf-regular-webfont.woff2') format('woff2'), url('cartographcf-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 *,
@@ -129,7 +131,7 @@ nav {
     font-style: oblique;
     font-weight: bolder;
     font-size: 1.75rem;
-    font-family: Cartograph, 'Arial Narrow Bold', sans-serif;
+    font-family: 'cartograph', 'Arial Narrow Bold', sans-serif;
 }
 
 span.blue {

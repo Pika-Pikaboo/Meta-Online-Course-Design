@@ -1,4 +1,4 @@
-# Hello Forks !!
+# Hello Folks !!
 # This is Author Pikaboo 🙋‍♂️
 
 -- this is example for online course website user interface design
